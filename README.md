@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0942-super-palindromes](https://github.com/DivyankR16/Leet_Code/tree/master/0942-super-palindromes) |
 | [0963-three-equal-parts](https://github.com/DivyankR16/Leet_Code/tree/master/0963-three-equal-parts) |
 # Stack
 |  |
@@ -27,3 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/DivyankR16/Leet_Code/tree/master/0132-palindrome-partitioning-ii) |
+# Enumeration
+|  |
+| ------- |
+| [0942-super-palindromes](https://github.com/DivyankR16/Leet_Code/tree/master/0942-super-palindromes) |
