@@ -19,3 +19,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DivyankR16/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
+# String
+|  |
+| ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/DivyankR16/Leet_Code/tree/master/0132-palindrome-partitioning-ii) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/DivyankR16/Leet_Code/tree/master/0132-palindrome-partitioning-ii) |
