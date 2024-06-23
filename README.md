@@ -23,10 +23,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/DivyankR16/Leet_Code/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/DivyankR16/Leet_Code/tree/master/0132-palindrome-partitioning-ii) |
 # Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/DivyankR16/Leet_Code/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/DivyankR16/Leet_Code/tree/master/0132-palindrome-partitioning-ii) |
 # Enumeration
 |  |
