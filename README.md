@@ -67,16 +67,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/DivyankR16/Leet_Code/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/DivyankR16/Leet_Code/tree/master/1370-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/DivyankR16/Leet_Code/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/DivyankR16/Leet_Code/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/DivyankR16/Leet_Code/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/DivyankR16/Leet_Code/tree/master/1370-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/DivyankR16/Leet_Code/tree/master/0966-binary-subarrays-with-sum) |
+## Math
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/DivyankR16/Leet_Code/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
