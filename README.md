@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/DivyankR16/Leet_Code/tree/master/0010-regular-expression-matching) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DivyankR16/Leet_Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/DivyankR16/Leet_Code/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Counting
@@ -110,5 +111,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/DivyankR16/Leet_Code/tree/master/0010-regular-expression-matching) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/DivyankR16/Leet_Code/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/DivyankR16/Leet_Code/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
