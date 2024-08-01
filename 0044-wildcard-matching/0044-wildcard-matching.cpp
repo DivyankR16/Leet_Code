@@ -24,9 +24,11 @@ vector<vector<int>>memo;
             ans|=(p[j]==s[i] && solver(i+1,j+1,s,p));
         }
         else{
-            for(int k=i;k<=s.size();k++){
-                ans|=solver(k,j+1,s,p);
-            }
+            // for(int k=i;k<=s.size();k++){
+            //     ans|=solver(k,j+1,s,p);
+            // }
+            ans|=solver(i,j+1,s,p);
+            ans|=solver(i+1,j,s,p);
         }
         return memo[i][j]=ans;
     }
