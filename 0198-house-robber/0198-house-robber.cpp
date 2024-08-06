@@ -1,26 +1,15 @@
 class Solution {
 public:
-    vector<vector<int>>memo;
-    int solver(int i,int n,bool prev,vector<int>&a){
-        if(i==n){
-            return 0;
-        }
-        if(memo[i][prev]!=-1){
-            return memo[i][prev];
-        }
-        int ans1=0;
-        int ans2=0;
-        if(!prev){
-            ans1+=solver(i+1,n,true,a)+a[i];
-            ans2+=solver(i+1,n,false,a);
-        }
-        else{
-            ans2+=solver(i+1,n,false,a);
-        }
-        return memo[i][prev]=max(ans1,ans2);
-    } 
     int rob(vector<int>& a) {
-        memo.assign(a.size(),vector<int>(2,-1));
-        return solver(0,a.size(),false,a);
-    }
+        int n=a.size();
+        vector<vector<int>>dp;
+        dp.assign(n+1,vector<int>(2,0));
+        dp[0][0]=0;
+        dp[0][1]=0;
+        for(int i=1;i<=n;i++){
+            dp[i][0]=max(dp[i-1][0],dp[i-1][1]);
+            dp[i][1]=dp[i-1][0]+a[i-1];
+        }
+        return max(dp[n][0],dp[n][1]);
+}
 };
