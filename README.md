@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0010-regular-expression-matching](https://github.com/DivyankR16/Leet_Code/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/DivyankR16/Leet_Code/tree/master/0044-wildcard-matching) |
+| [0131-palindrome-partitioning](https://github.com/DivyankR16/Leet_Code/tree/master/0131-palindrome-partitioning) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DivyankR16/Leet_Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/DivyankR16/Leet_Code/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Counting
@@ -121,9 +122,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0010-regular-expression-matching](https://github.com/DivyankR16/Leet_Code/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/DivyankR16/Leet_Code/tree/master/0044-wildcard-matching) |
+| [0131-palindrome-partitioning](https://github.com/DivyankR16/Leet_Code/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/DivyankR16/Leet_Code/tree/master/0198-house-robber) |
 ## Greedy
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/DivyankR16/Leet_Code/tree/master/0044-wildcard-matching) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/DivyankR16/Leet_Code/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
