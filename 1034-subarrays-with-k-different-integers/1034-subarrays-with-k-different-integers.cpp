@@ -1,24 +1,28 @@
 class Solution {
 public:
-    int solver(vector<int>&a,int k){
+    int subarraysWithKDistinct(vector<int>& a, int k) {
         int n=a.size();
-        int j=0;
         map<int,int>mp;
+        int j=0;
         int ans=0;
+        int cnt=0;
         for(int i=0;i<n;i++){
-            mp[a[i]]++;
-            while(mp.size()>k){
-                mp[a[j]]--;
-                if(mp[a[j]]==0){
-                    mp.erase(a[j]);
-                }
-                j++;
-            }
-            ans+=i-j+1;
+           mp[a[i]]++;
+           if(mp.size()>k){
+            cnt=0;
+            mp[a[j]]--;
+            mp.erase(a[j]);
+            j++;
+           }
+           while(mp[a[j]]>1){
+            mp[a[j]]--;
+            cnt++;
+            j++;
+           }
+           if(mp.size()==k){
+            ans+=1+cnt;
+           }
         }
         return ans;
-    } 
-    int subarraysWithKDistinct(vector<int>& a, int k) {
-        return solver(a,k)-solver(a,k-1);
     }
 };
