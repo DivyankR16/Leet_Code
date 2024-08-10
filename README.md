@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/DivyankR16/Leet_Code/tree/master/0076-minimum-window-substring) |
 | [0966-binary-subarrays-with-sum](https://github.com/DivyankR16/Leet_Code/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DivyankR16/Leet_Code/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DivyankR16/Leet_Code/tree/master/1370-count-number-of-nice-subarrays) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/DivyankR16/Leet_Code/tree/master/0076-minimum-window-substring) |
 | [0966-binary-subarrays-with-sum](https://github.com/DivyankR16/Leet_Code/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DivyankR16/Leet_Code/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DivyankR16/Leet_Code/tree/master/1370-count-number-of-nice-subarrays) |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0010-regular-expression-matching](https://github.com/DivyankR16/Leet_Code/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/DivyankR16/Leet_Code/tree/master/0044-wildcard-matching) |
+| [0076-minimum-window-substring](https://github.com/DivyankR16/Leet_Code/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/DivyankR16/Leet_Code/tree/master/0131-palindrome-partitioning) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DivyankR16/Leet_Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/DivyankR16/Leet_Code/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
