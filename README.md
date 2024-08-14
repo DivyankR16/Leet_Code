@@ -152,4 +152,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DivyankR16/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/DivyankR16/Leet_Code/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
