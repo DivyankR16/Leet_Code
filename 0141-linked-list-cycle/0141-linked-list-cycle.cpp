@@ -9,15 +9,28 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        set<ListNode*>s;
+        if(head==NULL){
+            return 0;
+        }
         ListNode *p=head;
-        while(p!=NULL){
-            if(s.find(p)!=s.end()){
+        ListNode *q=head;
+        while(true){
+            p=p->next;
+            if(!p){
+                return 0;
+            }
+            q=q->next;
+            if(!q){
+                return 0;
+            }
+            q=q->next;
+            if(!q){
+                return 0;
+            }
+            if(q==p){
                 return 1;
             }
-            s.insert(p);
-            p=p->next;
         }
-        return 0;
+        return 1;
     }
 };
