@@ -10,18 +10,17 @@
  */
 class Solution {
 public:
-    ListNode *ans;
-    void solver(ListNode *p,ListNode *prev){
-        if(p==NULL){
-            ans=prev;
-            return;
+    ListNode *solver(ListNode *p){
+        if(p==NULL || p->next==NULL){
+            return p;
         }
+        ListNode *head=solver(p->next);
         ListNode *temp=p->next;
-        p->next=prev;
-        solver(temp,p);
+        temp->next=p;
+        p->next=NULL;
+        return head;
     }
     ListNode* reverseList(ListNode* head) {
-        solver(head,NULL);
-        return ans;
+        return solver(head);
     }
 };
