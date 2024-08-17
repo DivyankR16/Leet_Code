@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/DivyankR16/Leet_Code/tree/master/1370-count-number-of-nice-subarrays) |
+| [2481-strictly-palindromic-number](https://github.com/DivyankR16/Leet_Code/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -166,4 +167,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DivyankR16/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/DivyankR16/Leet_Code/tree/master/0908-middle-of-the-linked-list) |
+| [2481-strictly-palindromic-number](https://github.com/DivyankR16/Leet_Code/tree/master/2481-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/DivyankR16/Leet_Code/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
