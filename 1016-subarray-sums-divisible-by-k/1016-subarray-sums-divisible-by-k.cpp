@@ -8,14 +8,8 @@ public:
         mp[0]=1;
         for(int i=0;i<n;i++){
             sum+=a[i];
-            ans+=mp[sum%k];
-            if(sum!=0 && sum>0){
-                    ans+=mp[-(k-(sum%k))];
-            }
-            if(sum!=0 && sum<0){
-                    ans+=mp[k+(sum%k)];
-            }
-            mp[sum%k]++;
+            ans+=mp[(sum%k+k)%k];
+            mp[(sum%k+k)%k]++;
         }
         return ans;
     }
