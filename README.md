@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/DivyankR16/Leet_Code/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DivyankR16/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/DivyankR16/Leet_Code/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/DivyankR16/Leet_Code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DivyankR16/Leet_Code/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DivyankR16/Leet_Code/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DivyankR16/Leet_Code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/DivyankR16/Leet_Code/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/DivyankR16/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0966-binary-subarrays-with-sum](https://github.com/DivyankR16/Leet_Code/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/DivyankR16/Leet_Code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DivyankR16/Leet_Code/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DivyankR16/Leet_Code/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DivyankR16/Leet_Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/DivyankR16/Leet_Code/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/DivyankR16/Leet_Code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DivyankR16/Leet_Code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Math
 |  |
