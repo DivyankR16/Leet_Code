@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0076-minimum-window-substring](https://github.com/DivyankR16/Leet_Code/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/DivyankR16/Leet_Code/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/DivyankR16/Leet_Code/tree/master/0242-valid-anagram) |
 | [0966-binary-subarrays-with-sum](https://github.com/DivyankR16/Leet_Code/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DivyankR16/Leet_Code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DivyankR16/Leet_Code/tree/master/1034-subarrays-with-k-different-integers) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/DivyankR16/Leet_Code/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/DivyankR16/Leet_Code/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/DivyankR16/Leet_Code/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/DivyankR16/Leet_Code/tree/master/0242-valid-anagram) |
 | [0696-count-binary-substrings](https://github.com/DivyankR16/Leet_Code/tree/master/0696-count-binary-substrings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DivyankR16/Leet_Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/DivyankR16/Leet_Code/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DivyankR16/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/DivyankR16/Leet_Code/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
