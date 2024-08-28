@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/DivyankR16/Leet_Code/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DivyankR16/Leet_Code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DivyankR16/Leet_Code/tree/master/1034-subarrays-with-k-different-integers) |
+| [1036-rotting-oranges](https://github.com/DivyankR16/Leet_Code/tree/master/1036-rotting-oranges) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DivyankR16/Leet_Code/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DivyankR16/Leet_Code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/DivyankR16/Leet_Code/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/DivyankR16/Leet_Code/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -196,4 +198,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/DivyankR16/Leet_Code/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/DivyankR16/Leet_Code/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
