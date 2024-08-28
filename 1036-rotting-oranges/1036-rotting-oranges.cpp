@@ -1,55 +1,41 @@
 class Solution {
 public:
-    int orangesRotting(vector<vector<int>>& grid) {
-        int m=grid.size();
-        int n=grid[0].size();
+    int orangesRotting(vector<vector<int>>& a) {
+    int dx[]={1,-1,0,0};
+    int dy[]={0,0,1,-1};
+        int m=a.size();
+        int n=a[0].size();
         queue<pair<int,int>>q;
-        int non_rotten=0;
-        int ans=0;
+        // vector<vector<bool>>vis(m,vector<bool>(n,0));
+        int fresh=0;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(grid[i][j]==2){
+                if(a[i][j]==2){
                     q.push({i,j});
                 }
-                else if(grid[i][j]==1){
-                    non_rotten++;
+                else if(a[i][j]==1){
+                    fresh++;
                 }
             }
         }
-        while(!q.empty() && non_rotten){
-            int size=q.size();
-            for(int i=0;i<size;i++){
-                bool isck=false;
-            // int i_nn_rttn=non_rotten;
+        int ans=0;
+        while(!q.empty()){
+            int sz=q.size();
+            for(int j=0;j<sz;j++){
             auto [x,y]=q.front();
             q.pop();
-            if(x>0 && grid[x-1][y]==1){
-                isck=true;
-                non_rotten--;
-                q.push({x-1,y});
-                grid[x-1][y]=2;
+            for(int i=0;i<4;i++){
+                int nx=x+dx[i];
+                int ny=y+dy[i];
+                if(nx>=0 && nx<m && ny>=0 && ny<n && a[nx][ny]==1){
+                    q.push({nx,ny});
+                    a[nx][ny]=2;
+                    fresh--;
+                }
             }
-            if(x<m-1 && grid[x+1][y]==1){
-                isck=true;
-                non_rotten--;
-                q.push({x+1,y});
-                grid[x+1][y]=2;
             }
-            if(y>0 && grid[x][y-1]==1){
-                isck=true;
-                non_rotten--;
-                q.push({x,y-1});
-                grid[x][y-1]=2;
-            }
-            if(y<n-1 && grid[x][y+1]==1){
-                isck=true;
-                non_rotten--;
-                q.push({x,y+1});
-                grid[x][y+1]=2;
-            }
+            if(!q.empty())ans++;
         }
-            ans++;
-        }
-        return (!non_rotten?ans:-1);
+        return (!fresh?ans:-1);
     }
 };
