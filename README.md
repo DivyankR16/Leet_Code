@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/DivyankR16/Leet_Code/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/DivyankR16/Leet_Code/tree/master/0231-power-of-two) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DivyankR16/Leet_Code/tree/master/1370-count-number-of-nice-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/DivyankR16/Leet_Code/tree/master/2481-strictly-palindromic-number) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/DivyankR16/Leet_Code/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/DivyankR16/Leet_Code/tree/master/0231-power-of-two) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/DivyankR16/Leet_Code/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
