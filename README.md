@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/DivyankR16/Leet_Code/tree/master/0231-power-of-two) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DivyankR16/Leet_Code/tree/master/1370-count-number-of-nice-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/DivyankR16/Leet_Code/tree/master/2481-strictly-palindromic-number) |
 ## String
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/DivyankR16/Leet_Code/tree/master/0231-power-of-two) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/DivyankR16/Leet_Code/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/DivyankR16/Leet_Code/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/DivyankR16/Leet_Code/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/DivyankR16/Leet_Code/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/DivyankR16/Leet_Code/tree/master/0231-power-of-two) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/DivyankR16/Leet_Code/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
 |  |
